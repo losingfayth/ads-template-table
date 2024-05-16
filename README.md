@@ -2,7 +2,10 @@
 **authors:** fayth quinn ([*@losingfayth*](https://github.com/losingfayth)), drue coles
 
 ## Context
-The program was created as part of a school project. This project was completed in ~3 days.
+The program was created as part of a school project for a class on Algorithms & Data Structures.
+
+## Project Time
+~3 Days
 
 ## Known Issues
 n/a
