@@ -1,6 +1,8 @@
 # Generic Table Template Class in C++
 **authors:** fayth quinn ([*@losingfayth*](https://github.com/losingfayth)), drue coles
 
+*24th September 2023*
+
 ## Context
 The program was created as part of a school project for a class on Algorithms & Data Structures.
 
